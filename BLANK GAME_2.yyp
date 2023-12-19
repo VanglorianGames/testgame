@@ -36,6 +36,7 @@
   "resources": [
     {"id":{"name":"Sprite34","path":"sprites/Sprite34/Sprite34.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Sprite27","path":"sprites/Sprite27/Sprite27.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

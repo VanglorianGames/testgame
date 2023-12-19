@@ -18,5 +18,6 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Sprite34","order":1,"path":"sprites/Sprite34/Sprite34.yy",},
+    {"name":"Sprite27","order":2,"path":"sprites/Sprite27/Sprite27.yy",},
   ],
 }
